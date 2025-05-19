@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="reading_csv.csv_reader" />
+          <option value="Selenium_practice.yahoo_with_chrome.webdriver_manager" />
+          <option value="Selenium_practice.yahoo_with_chrome.*" />
+          <option value="ChromeDriverManager" />
+          <option value="Hevo.sentinel.sentinel.fixtures.sentinel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
